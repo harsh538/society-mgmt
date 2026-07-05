@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.log
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# Local runtime
+uploads/
+.env
+.env.local
